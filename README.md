@@ -49,22 +49,14 @@
 
 ### 🔥 **GitHub Stats**
 
-```md
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tijo-thomaz&show_icons=true&theme=radical" width="50%"/>
 </p>
-```
 
 ### 🚀 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijo-thomaz&layout=compact&theme=radical" width="50%"/>
-</p>
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tijo-thomaz&theme=radical" width="50%"/>
 </p>
