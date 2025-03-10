@@ -30,9 +30,7 @@
 📌 **Portfolio-MFE** → _Modular MFE-based Portfolio_  
 📌 **TMG3X** → _Go + HTMX + Three.js 3D Renderer_  
 📌 **GEX3** → _Go + HTMX-based lightweight Next.js alternative_  
-📌 **Go-MiniAPI** → _Minimal Go REST API Template with JWT_  
-📌 **HTMX-Dashboard** → _Real-Time Admin Panel using HTMX + Go_  
-📌 **React-Perf-Starter** → _Optimized React + TypeScript Starter Kit_
+📌 **HTMX-Dashboard** → _Real-Time Admin Panel using HTMX + Go_
 
 ---
 
