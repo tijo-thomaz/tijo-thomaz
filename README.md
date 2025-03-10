@@ -45,9 +45,7 @@
 
 ---
 
-## **📌 Step 2: Add GitHub Stats Widgets**
-
-### 🔥 **GitHub Stats**
+<!-- ### 🔥 **GitHub Stats**
 
 ### 📊 GitHub Stats
 
@@ -59,4 +57,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijo-thomaz&layout=compact&theme=radical" width="50%"/>
-</p>
+</p> -->
