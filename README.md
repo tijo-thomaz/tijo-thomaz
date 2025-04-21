@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Tijo Thomaz</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | Go | TypeScript | React | HTMX | Three.js
+  🚀 Full-Stack Developer | Go | TypeScript | React | Angular | Three.js
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=html5&logoColor=blue" />
   <img src="https://img.shields.io/badge/3D-Three.js-black?style=for-the-badge&logo=three.js" />
   <img src="https://img.shields.io/github/followers/tijo-thomaz?style=for-the-badge" />
