@@ -35,8 +35,8 @@
 
 ### 🛠️ Tech Stack
 
-💡 **Frontend**: React, TypeScript, HTMX, TailwindCSS  
-⚙️ **Backend**: Go, Node.js, WebSockets, REST APIs  
+💡 **Frontend**: React, TypeScript, Angular, TailwindCSS  
+⚙️ **Backend**: Go, REST APIs  
 🎨 **3D & Visualization**: Three.js, WebGL, WebAssembly  
 🚀 **DevOps & CI/CD**: Docker, GitHub Actions, Vercel, Cloud Run
 
