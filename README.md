@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/HTMX-lightgrey?style=for-the-badge&logo=html5&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Backend-golang-blue?style=for-the-badge&logo=golang" />
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=html5&logoColor=blue" />
   <img src="https://img.shields.io/badge/3D-Three.js-black?style=for-the-badge&logo=three.js" />
   <img src="https://img.shields.io/github/followers/tijo-thomaz?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/tijo-thomaz?style=for-the-badge" />
