@@ -1,57 +1,20 @@
-<h1 align="center">👋 Hey there, I'm Tijo Thomaz</h1>
+## Tijo Thomas
 
-<p align="center">
-  🚀 Full-Stack Developer | Go | TypeScript | React | Angular | Three.js
-</p>
+Lead Software Engineer, 8+ years. I build systems that stay correct when the network doesn't.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=html5&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js" />
-  <img src="https://img.shields.io/github/followers/tijo-thomaz?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/tijo-thomaz?style=for-the-badge" />
-</p>
+Currently leading the architecture of an offline-first field tool — local SQLite sync engine,
+Feature-Sliced React, and an AWS pipeline I own end to end.
 
----
+**Focus**
+- Offline-first architecture and sync/conflict resolution
+- Go microservices, high-throughput APIs, worker pools
+- React + TypeScript at enterprise scale — config-driven UI, legacy migrations
+- Regulated domains: financial services, online gaming, healthcare
 
-### 🔥 About Me
+**Background**
+Lead Software Engineer @ Opteamix · previously bet365 (KYC & Regulatory, UK), Infosys (eBay Motors, Home Depot)
 
-- 🏗️ **Building**: [Portfolio-MFE](https://github.com/tijo-thomaz/portfolio-mfe), [TMG3X](https://github.com/tijo-thomaz/tmg3x), and [GEX3](https://github.com/tijo-thomaz/gex3)
-- 🛠 **Passionate about**: **Micro Frontends (MFE), 3D Web Technologies, and Scalable Backends**
-- 🌍 **Exploring**: WebAssembly, HTMX-driven UI, and High-Performance Go APIs
-- 🎯 **Current Focus**: **Creating open-source tools that simplify modern web development**
+**Stack**
+Go · TypeScript · React · SQLite · AWS · Docker · .NET
 
----
-
-### 🔗 Featured Projects
-
-📌 **Portfolio-MFE** → _Modular MFE-based Portfolio_  
-📌 **TMG3X** → _Go + HTMX + Three.js 3D Renderer_  
-📌 **GEX3** → _Go + HTMX-based lightweight Next.js alternative_  
-📌 **HTMX-Dashboard** → _Real-Time Admin Panel using HTMX + Go_
-
----
-
-### 🛠️ Tech Stack
-
-💡 **Frontend**: React, TypeScript, Angular, TailwindCSS  
-⚙️ **Backend**: Go, REST APIs  
-🎨 **3D & Visualization**: Three.js, WebGL, WebAssembly  
-🚀 **DevOps & CI/CD**: Docker, GitHub Actions, Vercel, Cloud Run
-
----
-
-<!-- ### 🔥 **GitHub Stats**
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tijo-thomaz&show_icons=true&theme=radical" width="50%"/>
-</p>
-
-### 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijo-thomaz&layout=compact&theme=radical" width="50%"/>
-</p> -->
+📍 Bengaluru · open to relocation
